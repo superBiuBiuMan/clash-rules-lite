@@ -1,0 +1,4 @@
+#漫画
+payload:
+  - DOMAIN,comic.reassurehome.com
+  - IP-CIDR,95.216.116.214/22
